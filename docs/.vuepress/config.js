@@ -1,4 +1,6 @@
 module.exports = {
+    // 路径名为 "/<REPO>/"
+    base: '/cq0206.github.io/',
     title: '...',
     description: '...',
     themeConfig: {
